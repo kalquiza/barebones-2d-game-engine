@@ -43,7 +43,10 @@ For more on this project and video game development discussion:
 
 ### Readings
 - *Game Engine Architecture* by Jason Gregory 
-- *Foundations of Game Engine Development* by Eric Lengyel
+- *Foundations of Game Engine Development* by Eric Lengye
 
 ### Todos
 - Create demo executable for Windows and Mac OS X
+
+#### Course Details
+CS 134: Computer Game Design and Programming
