@@ -49,4 +49,4 @@ For more on this project and video game development discussion:
 - Create demo executable for Windows and Mac OS X
 
 #### Course Details
-CS 134: Computer Game Design and Programming
+CS 134: Computer Game Design & Programming
